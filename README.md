@@ -4,10 +4,6 @@ YOUR BATTLEFIELD. YOUR INTEL. ONE COMPANION.
 
 Everything you need before deploying — maps, loadouts, resources and updates, brought together in one Android app.
 
-""Android" (https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)" (https://www.android.com/)
-""Kotlin" (https://img.shields.io/badge/Built%20with-Kotlin-7F52FF?style=for-the-badge&logo=kotlin)" (https://kotlinlang.org/)
-""Build" (https://img.shields.io/badge/Build-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)" (https://github.com/KALUBOT/Delta-Force-Companion-App/actions)
-
 "⬇️ GET THE APP" (https://github.com/KALUBOT/Delta-Force-Companion-App/actions) · "REPORT A BUG" (https://github.com/KALUBOT/Delta-Force-Companion-App/issues)
 
 </div>---
