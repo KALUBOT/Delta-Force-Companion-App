@@ -53,18 +53,6 @@ Discover useful resources and links to help you stay connected with the communit
 
 ---
 
-📲 DOWNLOAD THE APP
-
-Get the latest available Android build through GitHub Actions.
-
-1. Open the "Actions page" (https://github.com/KALUBOT/Delta-Force-Companion-App/actions).
-2. Select the latest successful Build Delta Force Companion APK workflow.
-3. Scroll down to Artifacts.
-4. Download "DeltaForceCompanion-APK".
-5. Extract the ZIP and install the APK.
-
-«GitHub Actions artifacts may expire. Check the latest successful workflow for the available build.»
-
 🛠️ BUILT WITH
 
 Technology| Details
